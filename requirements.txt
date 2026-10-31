@@ -1,0 +1,6 @@
+# NCM's own dependencies, taken from the clone next to this repo (so they always match it)
+-r ../ncm/requirements.txt
+
+# used by ncm_sudoku_levels.py itself
+numpy
+pillow
